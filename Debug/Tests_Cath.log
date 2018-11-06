@@ -1,2 +1,3 @@
-﻿  Tests_Cath.cpp
-  Tests_Cath.vcxproj -> C:\Users\hurma\source\repos\Tests_Cath\Debug\Tests_Cath.exe
+﻿D:\Programming\Visual\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Tests_Cath.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Tests_Catch.cpp
+  Tests_Cath.vcxproj -> C:\Users\hurma\source\repos\Tests_Catch\Debug\Tests_Catch.exe
